@@ -17,6 +17,7 @@ module.exports = {
     "plugin:react-hooks/recommended",
     "plugin:jsx-a11y/recommended",
     "plugin:prettier/recommended",
+    "plugin:tailwind/recommended",
   ],
   rules: {
     "simple-import-sort/imports": "error",
